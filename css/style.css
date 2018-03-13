@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    margin: 30px;
+    justify-content: space-evenly;
+    min-height: 140px;
+    max-width: 600px;
+    flex-wrap: wrap;
+
+}
+
+.circle {
+    
+    border: 1px solid black;
+    border-radius: 100%;
+    background-color: black;
+    min-width: 120px;
+    min-height: 120px;
+    margin: 19.5px;
+}
